@@ -1,2 +1,2 @@
-# fspermtoggle
-A simple tampermonkey script that prompts the user before allowing a website to enter fullscreen mode, with memory capabilities.
+### Fullscreen Permission Prompt Script  
+A Tampermonkey script that asks for confirmation before a website enters fullscreen. Option to remember allowed sites, storing them in localStorage.
